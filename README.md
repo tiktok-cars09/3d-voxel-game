@@ -123,7 +123,7 @@ cmake --build . --config Release
 ./voxel_demo
 ```
 
-Arch Linux / Manjaro (detailed)
+Arch Linux / CachyOS (detailed)
 
 1) Install packages via pacman:
 
